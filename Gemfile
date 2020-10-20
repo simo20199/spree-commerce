@@ -30,7 +30,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 
 
 
-gem 'spree', '~> 4.0', '>= 4.0.3'
+gem 'spree', '~> 4.0'
 gem 'spree_auth_devise', '~> 4.0'
 gem 'spree_gateway', '~> 3.6'
 
